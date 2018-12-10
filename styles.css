@@ -1,0 +1,50 @@
+html{
+    text-align:center;
+}
+img{
+    width: 100%;
+    height:80%;
+}
+#pics {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color:white;
+}
+
+.box1{
+    background-image:url("https://media.giphy.com/media/3o85xJohCZUc524lSU/giphy.gif");
+}
+.box2 {
+    background-image:url("https://media.giphy.com/media/7lgtSFQElb6Pm/giphy.gif");
+}
+.column {
+  width: 30%;
+  padding: 5px;
+  display: flex;
+  justify-content:center;
+  margin:5px;
+}
+.row{
+    display:flex;
+}
+.box3{
+    background-image:url("https://media.giphy.com/media/tFD4CrleCIXBu/giphy.gif");
+}
+p{
+    color:white;
+    padding:20px;
+}
+.image1{
+    width:100%;
+    height:90%;
+}
